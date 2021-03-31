@@ -6,3 +6,6 @@ I’m currently learning Javascript and node JS :)
 
 
 -   **[Have you checked out my LinkedIn?](https://www.linkedin.com/in/prisciladuarte1993/)**
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
