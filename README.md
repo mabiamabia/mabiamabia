@@ -2,7 +2,7 @@
 
 ### My name is Priscila Duarte, I am a full-stack developer in Brazil :octocat:
 
-### I’m currently learning Javascript and Node.JS :atom:
+### I’m currently learning Java and Spring Boot :atom:
 
 
 ### **[Have you checked out my LinkedIn?](https://www.linkedin.com/in/prisciladuarte1993/)**
