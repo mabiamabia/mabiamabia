@@ -1,6 +1,6 @@
 ## Olá, habitante do planeta terra! 👋 :earth_africa:	
 
-### My name is Priscila Duarte, I am a fullstack developer in Brazil :octocat:
+### My name is Priscila Duarte, I am software developer in Brazil :octocat:
 
 ### I’m currently learning Java and Spring Boot :atom:
 
