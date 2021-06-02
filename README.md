@@ -2,7 +2,7 @@
 
 ### My name is Priscila Duarte, I am software developer in Brazil :octocat:
 
-### I’m currently learning Java and Spring Boot :atom:
+### I’m currently learning Java :atom:
 
 
 ### **[Have you checked out my LinkedIn?](https://www.linkedin.com/in/prisciladuarte1993/)**
