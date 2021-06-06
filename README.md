@@ -1,12 +1,14 @@
-## Olá, 👋 habitante do planeta terra!:earth_africa:	
+## 👋 Olá, habitante do planeta terra!:earth_africa:	
 
 ### My name is Priscila Duarte, I am software developer in Brazil :octocat:
 
-### I’m currently learning Java :atom:
+### I’m currently learning Java & technologies around :atom:
+
+### :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:
 
 
 ### **[Have you checked out my LinkedIn?](https://www.linkedin.com/in/prisciladuarte1993/)**
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&layout=compact)](https://github.com/prisciladuarte/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&layout=compact)](https://github.com/prisciladuarte/github-readme-stats)
