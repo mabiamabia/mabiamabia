@@ -1,4 +1,4 @@
-## Olá, habitante do planeta terra! 👋 :earth_africa:	
+## Olá, 👋 habitante do planeta terra!:earth_africa:	
 
 ### My name is Priscila Duarte, I am software developer in Brazil :octocat:
 
