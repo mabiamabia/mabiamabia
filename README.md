@@ -9,12 +9,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&layout=compact)](https://github.com/prisciladuarte/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prisciladuarte)](https://github.com/prisciladuarte/github-readme-stats)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisciladuarte&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&layout=compact)](https://github.com/prisciladuarte/github-readme-stats
