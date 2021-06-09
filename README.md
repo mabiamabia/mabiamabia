@@ -2,7 +2,7 @@
 
 ### My name is Priscila Duarte, I am software developer in Brazil :octocat:
 
-### I’m currently learning Java & technologies around :atom:
+### I’m currently learning Java & technologies around Java :atom:
 
 ### :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:
 
