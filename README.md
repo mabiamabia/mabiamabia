@@ -9,10 +9,6 @@
 
 ### **[Have you checked out my LinkedIn?](https://www.linkedin.com/in/prisciladuarte1993/)**
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&layout=compact)](https://github.com/prisciladuarte/github-readme-stats)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladuarte&langs_count=5&theme=tokyonight)]()
 
 
