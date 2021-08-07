@@ -32,9 +32,7 @@
 
 [![javaasccripptt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
-[![ttyppeesscrript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-[![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
+[![ttyppeesscrript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
 # ⚡ Database
 
