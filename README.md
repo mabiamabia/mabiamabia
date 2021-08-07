@@ -25,3 +25,5 @@
 # :zap Technologies
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+
+[![Github Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
