@@ -24,15 +24,7 @@
 
 # ⚡ Technologies
 
-[![python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-[![html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-[![css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-[![javaasccripptt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-[![ttyppeesscrript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
+[![python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![javaasccripptt Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![ttyppeesscrript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
 # ⚡ Database
 
