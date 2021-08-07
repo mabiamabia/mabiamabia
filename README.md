@@ -14,3 +14,4 @@ I’m currently learning Java & technologies around Java :atom:
 <h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:</h4>
 
 
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
