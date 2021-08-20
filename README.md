@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Olá, habitante do planeta terra!:earth_africa:</h2>
+<h2 align="center"> 👋 Hi, everyone!</h2>
 
 My name is Priscila Duarte, I am a passionate software developer in Brazil :octocat:
 
