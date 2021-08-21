@@ -1,17 +1,9 @@
-<h2 align="center"> 👋 Hi, everyone!</h2>
+<h1 align="center"> 👋 Hi, everyone!</h1>
 
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prisciladuarte1993/)](https://www.linkedin.com/in/prisciladuarte1993/)![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) <br>
 
-![Alt Text](https://i.pinimg.com/originals/32/17/dc/3217dc9cfd81473abaf6e58384581df8.gif)
-
-![not a fase](https://64.media.tumblr.com/a0ffa31cb5a80c2757dc707fdcd61876/tumblr_pwdmj12a791yqbwsno1_500.gif)<br>
-My name is Priscila Duarte, 
-I am a passionate about solving problems and organizing the world around me through technology
-
-I’m currently learning Java & technologies around Java :atom:
-
-**Have you checked out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prisciladuarte1993/)](https://www.linkedin.com/in/prisciladuarte1993/) ?**
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)|[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/mabi-mabi-mabi)](https://codepen.io/mabi-mabi-mabi)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:duartecostap@gmail.com)](mailto:duartecostap@gmail.com)
+:-------------------------:|:-------------------------:
+![cat laser](https://i.pinimg.com/originals/32/17/dc/3217dc9cfd81473abaf6e58384581df8.gif)   | My name is Priscila Duarte,<br> I am passionate about solving problems and organizing the world around me through technology! I’m currently learning Java & technologies around Java :atom:<br>**Have you checked out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prisciladuarte1993/)](https://www.linkedin.com/in/prisciladuarte1993/) ?**
 
 <h2 align="center"> ⚡ Technologies</h2>
 
@@ -20,6 +12,8 @@ I’m currently learning Java & technologies around Java :atom:
 <h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:</h4>
 
 
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+teste1             |  em construção
+:-------------------------:|:-------------------------:
+![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)|![not a fase](https://64.media.tumblr.com/a0ffa31cb5a80c2757dc707fdcd61876/tumblr_pwdmj12a791yqbwsno1_500.gif?style=centerme)
 
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com) 
+
