@@ -1,11 +1,15 @@
 <h2 align="center"> 👋 Hi, everyone!</h2>
 
-My name is Priscila Duarte, I am a passionate software developer in Brazil :octocat:
+
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com) <br>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+My name is Priscila Duarte, 
+I am a passionate about solving problems and organizing the world around me through technology
 
 I’m currently learning Java & technologies around Java :atom:
 
 **Have you checked out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/prisciladuarte1993/)](https://www.linkedin.com/in/prisciladuarte1993/) ?**
-
 
 <h2 align="center"> ⚡ Technologies</h2>
 
