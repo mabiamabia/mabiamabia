@@ -21,5 +21,6 @@
 [![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 [![saas](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
+nest, react, redux *
 
 <h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:</h4>
