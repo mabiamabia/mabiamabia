@@ -19,8 +19,6 @@
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 [![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 [![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-[![saas](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
-
-nest *
+[![saas](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
 <h4 align="center"> :sparkles:You are welcome to share and collaborate on any project in this repository! Let's go together!:sparkles:</h4>
